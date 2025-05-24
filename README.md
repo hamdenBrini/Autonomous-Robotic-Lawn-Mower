@@ -1,7 +1,7 @@
 # ROBOMOW 1 – Autonomous Lawn Mower Robot
 
 ROBOMOW 1 is an autonomous grass-cutting robot designed and developed by engineering students at École Polytechnique de Tunisie. The robot is equipped with computer vision, ultrasonic sensors, and a custom mechanical system to autonomously mow lawns, avoid obstacles, and adapt to various terrains.
-
+![3D_model](images/3D_model.png)
 ## Project Goals
 
 The objective was to build an affordable autonomous lawn mower capable of:
